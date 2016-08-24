@@ -15,6 +15,7 @@
 		4FB85B4B1D5FFFEB00AC21A7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4FB85B491D5FFFEB00AC21A7 /* LaunchScreen.storyboard */; };
 		4FB85B561D5FFFEB00AC21A7 /* MyPetMonsterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FB85B551D5FFFEB00AC21A7 /* MyPetMonsterTests.swift */; };
 		4FB85B611D5FFFEB00AC21A7 /* MyPetMonsterUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FB85B601D5FFFEB00AC21A7 /* MyPetMonsterUITests.swift */; };
+		4FB85B6F1D6169C500AC21A7 /* DragImg.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FB85B6E1D6169C500AC21A7 /* DragImg.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		4FB85B5C1D5FFFEB00AC21A7 /* MyPetMonsterUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyPetMonsterUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4FB85B601D5FFFEB00AC21A7 /* MyPetMonsterUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyPetMonsterUITests.swift; sourceTree = "<group>"; };
 		4FB85B621D5FFFEB00AC21A7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4FB85B6E1D6169C500AC21A7 /* DragImg.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DragImg.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			children = (
 				4FB85B3D1D5FFFEB00AC21A7 /* AppDelegate.swift */,
 				4FB85B3F1D5FFFEB00AC21A7 /* ViewController.swift */,
+				4FB85B6E1D6169C500AC21A7 /* DragImg.swift */,
 				4FB85B411D5FFFEB00AC21A7 /* Main.storyboard */,
 				4FB85B471D5FFFEB00AC21A7 /* Assets.xcassets */,
 				4FB85B491D5FFFEB00AC21A7 /* LaunchScreen.storyboard */,
@@ -262,6 +265,7 @@
 				4FB85B461D5FFFEB00AC21A7 /* MyPetMonster.xcdatamodeld in Sources */,
 				4FB85B401D5FFFEB00AC21A7 /* ViewController.swift in Sources */,
 				4FB85B3E1D5FFFEB00AC21A7 /* AppDelegate.swift in Sources */,
+				4FB85B6F1D6169C500AC21A7 /* DragImg.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
